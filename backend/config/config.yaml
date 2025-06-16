@@ -1,0 +1,2 @@
+model:
+  path: "../models/xgb_credit_risk_model_v1.pkl"
